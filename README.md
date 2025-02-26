@@ -1,9 +1,5 @@
-<h1> Sistema de Registros </h1>
+<h1> Challenge Amigo Secreto </h1>
 
-- Estado del proyecto: En construcción.
+- Estado del proyecto: Finalizado.
 
-Para ejecutar el sistema, debes poner:
-
-```npm install react```
-
-Sistema de Registro 2
+Este desafío te permitirá poner a prueba y afianzar tus conocimientos, aplicar lo aprendido y fortalecer tus habilidades de programación.
